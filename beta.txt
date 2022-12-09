@@ -1,1 +1,2 @@
 this is dummy text for testing purpose
+this is my second dummy testing project
